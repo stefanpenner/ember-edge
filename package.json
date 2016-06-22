@@ -1,0 +1,19 @@
+{
+  "name": "ember-edge",
+  "version": "0.0.0",
+  "description": "Small description for ember-edge goes here",
+  "directories": {
+  },
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanpenner/ember-edge/"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "Stefan Penner <stefan.penner@gmail.com>",
+  "license": "MIT"
+}
